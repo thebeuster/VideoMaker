@@ -1,2 +1,2 @@
-# VideoMaker_v1
+# VideoMaker_v3
 Projeto Open Source para fazer vídeos automatizados

@@ -1,0 +1,22 @@
+{
+  "name": "videomaker_v3",
+  "version": "1.0.0",
+  "description": "Projeto Open Source para fazer vídeos automatizados",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebeuster/VideoMaker_v3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebeuster/VideoMaker_v3/issues"
+  },
+  "homepage": "https://github.com/thebeuster/VideoMaker_v3#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

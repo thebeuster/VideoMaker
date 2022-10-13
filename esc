@@ -1,0 +1,23 @@
+[33mcommit 0bf301a6d774995c18f463984956017d615c8ebe[m[33m ([m[1;36mHEAD -> [m[1;32muser-input[m[33m)[m
+Author: Rodrigo Yuji Shimoki Maeda <derekbeuster@gmail.com>
+Date:   Tue Oct 11 16:10:56 2022 -0300
+
+    feat: add package.json
+
+[33mcommit 93441919c327b6d056788ea38349f917e99a3549[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: thebeuster <115492675+thebeuster@users.noreply.github.com>
+Date:   Tue Oct 11 15:04:40 2022 -0300
+
+    Update README.md
+
+[33mcommit aa7aa85f54ffc2dc328c46ec5e7003e2cfd3df1b[m
+Author: thebeuster <115492675+thebeuster@users.noreply.github.com>
+Date:   Mon Oct 10 16:05:06 2022 -0300
+
+    Update README.md
+
+[33mcommit ef49d7c62f8f514394d5369e75ca1cb498cb3eb8[m
+Author: thebeuster <115492675+thebeuster@users.noreply.github.com>
+Date:   Mon Oct 10 14:22:41 2022 -0300
+
+    Initial commit
